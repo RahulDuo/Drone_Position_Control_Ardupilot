@@ -1,5 +1,5 @@
 # Ardupilot_OuterLoop
-This ROS package is to operate an aerial manipulator (Drone with single ink) in an indoor environment under Vicon cameras.
+This ROS package is to operate a drone in an indoor environment under Vicon cameras.
 
 Codes can be found in the branch name "new_branch".
 This Ros package is for running a quadcopter that uses an "Orange Cube" flight controller and has Autopilot firmware installed.
